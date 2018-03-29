@@ -1,0 +1,45 @@
+h1 {
+    text-align:center;
+    margin-top:10%;
+    font-family:helvetica;
+    color: RGBA(48, 101, 155, 1);
+    margin-right:1%;
+
+}
+
+h2 {
+    text-align:center;
+    font-family:helvetica;
+    color: #3D9970;
+}
+button {
+    
+    height: 240px;
+    width: 240px;
+    background-size: 240px 240px;
+    margin-top:3%;
+}
+
+.rock {
+    background-image: url("https://geology.com/rocks/pictures/scoria-jon-zander.jpg");
+    position: absolute;
+    margin-left:15%;
+}
+
+.paper {
+    background-image: url("http://www.dick-blick.com/items/102/40/10240-1009-1-2ww-m.jpg");
+    position:absolute;
+    margin-left:40%;
+
+}
+
+.scissors {
+    background-image : url("https://upload.wikimedia.org/wikipedia/commons/7/76/Pair_of_scissors_with_black_handle%2C_2015-06-07.jpg");
+    position:absolute;
+    margin-left:65%;
+}
+
+div {
+    margin-left:35%;
+    margin-top:25%;
+}

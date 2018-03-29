@@ -1,0 +1,1 @@
+This project is a coding of the game Rock Paper Scissors. I will demonstrate basic coding skills with functions.
